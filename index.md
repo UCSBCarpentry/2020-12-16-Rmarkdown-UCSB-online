@@ -33,7 +33,9 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 {% comment %}
-Registration for this workshop opens on Nov 25, at 8:00 am 
+8<========================================================
+Registration for this workshop opens on Nov 25, at 8:00 am
+8<======================================================== 
 {% endcomment %}
 
 
