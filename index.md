@@ -85,19 +85,10 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-{% comment %}
-INTRODUCTION
+Ever wondered how you can create more dynamic and reproducible academic reports? 
 
-Edit the general explanatory paragraph below if you want to change
-the pitch.
-{% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/intro.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/intro.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/intro.html %}
-{% endif %}
+Join us for a carpentry-style R Markdown workshop for scientific authoring. Participants will build on using their R data analysis skills in R Studio by learning how to create R Markdown documents that combine analysis and narrative. R Markdown makes it possible to work on a whole research project from within R Studio in an easily reproducible manner: from data upload, cleaning, and analysis, to writing your paper, adding figures, citations and bibliography with proper formatting. R markdown allows you to output your work as .html, .pdf, .docx (among many other formats) to publish your work as a website, paper, etc. This workshop will involve lecture and demos alternating with hands-on exercises, so by the end of the workshop you will have “authored” a short paper of your own with data and narrative we provide. 
+
 
 {% comment %}
 AUDIENCE
