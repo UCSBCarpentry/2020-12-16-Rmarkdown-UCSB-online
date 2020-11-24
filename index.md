@@ -33,7 +33,8 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 
-<h2><strong>Registration for this workshop opens on Wednesday, Nov 25 at 8:00 am</strong></h2>
+<h2><strong>Registration for this workshop opens on Wednesday, Nov 25 at 8:00 am PST</strong></h2>
+<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=UCSB+Carpentry%3A+&iso=20201216T08&p1=1050">Check what time registration opens in your time zone</a>
 
 
 
