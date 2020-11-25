@@ -37,7 +37,6 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=UCSB+Carpentry%3A+&iso=20201216T08&p1=1050">Check what time registration opens in your time zone</a>
 
 
-
 {% comment %}
 Check DC curriculum
 {% endcomment %}
