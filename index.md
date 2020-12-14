@@ -371,9 +371,8 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  <b>Here is the<a href="https://drive.google.com/file/d/1pnAzZkmU3zvNCtNqMI8yyQd3UrPBzrKU/view?usp=sharing"> Data 
+Folder</a></b> for our workshop. Download and unzip this file to your desktop before the workshop.
 </p>
 
 {% comment %}
